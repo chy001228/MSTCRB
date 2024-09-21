@@ -11,7 +11,7 @@ from torch.utils.data import Dataset, DataLoader
 protein = "AGO1"
 TRAIN_BATCH_SIZE = 200
 TEST_BATCH_SIZE = 200
-NUM_EPOCHS = 20
+NUM_EPOCHS = 30
 LR = 0.0005
 LOG_INTERVAL = 20
 modeling = MSTCRB
