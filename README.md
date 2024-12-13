@@ -6,12 +6,6 @@ The preprocessing of all of datasets in this article uses the same preprocessing
 ### improved Transformer module###
 transformer.py
 
-###circRNA training test module###
-Test_C.py
-
-###linearRNA training test module###
-Test_L.py
-
 ###MSTCRB module###
 modle.py
 
